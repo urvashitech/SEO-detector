@@ -42,10 +42,10 @@ We express our sincere appreciation to the open-source community for their valua
 
 ## Contact
 
-If you have any questions, suggestions, or feedback, please do not hesitate to reach out to us. You can contact us at [contact@seodetector.com](mailto:contact@seodetector.com).
+If you have any questions, suggestions, or feedback, please do not hesitate to reach out to us. You can contact us at [urvashikshatriya9@gmail.com](mailto:contact@seodetector.com).
 
 Stay tuned for updates and enhancements as we continue to improve SEO-Detector to help you optimize your website's SEO performance.
 
 ---
 
-*Note: Replace `[https://www.seodetector.com](https://www.seodetector.com)` with the actual URL where your SEO-Detector application is hosted, and provide instructions on how to set up the DataForSEO API integration in your application.*
+
