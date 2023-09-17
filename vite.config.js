@@ -3,6 +3,6 @@ import react from "@vitejs/plugin-react";
 
 // https://vitejs.dev/config/
 export default defineConfig({
-  base: "https://urvashitech/SEO-detector.github.io",
+  base: "https://urvashitech.github.io/SEO-detector",
   plugins: [react()],
 });
